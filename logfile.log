@@ -763,3 +763,9 @@
 {"message":"connected to mongodb://localhost/vidly2_tests","level":"info"}
 {"message":"connected to mongodb://localhost/vidly2_tests","level":"info"}
 {"message":"connected to mongodb://localhost/vidly2","level":"info"}
+{"message":"connected to mongodb://localhost/vidly2","level":"info"}
+{"message":"connected to mongodb://localhost/vidly2","level":"info"}
+{"message":"Listning on port 3010...","level":"info"}
+{"message":"connected to mongodb://localhost/vidly2","level":"info"}
+{"message":"Listning on port 3900...","level":"info"}
+{"message":"connected to mongodb://localhost/vidly2","level":"info"}

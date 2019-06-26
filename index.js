@@ -17,7 +17,7 @@ require("./startup/prod")(app);
 
 // throw new Error("something failed during startup.");
 
-const port = process.env.PORT || 3010;
+const port = process.env.PORT || 3900;
 
 if (process.env.NODE_ENV !== "test") {
   app.listen(port, () => winston.info(`Listning on port ${port}...`));

@@ -11,7 +11,7 @@ const cors = require("cors");
 
 module.exports = function(app) {
   //----------------------Setting route handlers--------------------------
-  app.use(cors({ origin: "https://hidden-beyond-42098.herokuapp.com/" }));
+  app.use(cors({ origin: "https://hidden-beyond-42098.herokuapp.com" }));
   app.use(express.json());
   app.use("/api/genres", genres);
   app.use("/api/customers", customers);
